@@ -1,26 +1,15 @@
 # Portfolio
 
-My personal portfolio website showcasing research in AI Safety and Machine Learning.
+Thomas and Farhan's Website to Show Off Our Interpretation of PogoStuck! (currently working on fleshing the website out more)
 
-**Live site:** [jrosser.co.uk](https://jrosseruk.github.io)
+**Video Link for Beta Deliverable:** [Link](https://jrosseruk.github.io)
 
 ## Preview
-
-![Portfolio Screenshot](docs/assets/screenshot.png)
 
 
 ## Tech Stack
 
-- Vanilla HTML, CSS, JavaScript
-- Markdown content
-- GitHub Pages hosting
-
-## Development
-
-```bash
-# Serve locally
-python -m http.server 8000 -d docs/
-```
+- D Lang
 
 ## Structure
 
