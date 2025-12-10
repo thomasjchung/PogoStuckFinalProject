@@ -25,6 +25,8 @@ TODO
 
 <a href="binary/pogostuck-engine" download>Download Compiled Binary (Mac)</a>
 
+Note here that you can also compile this on your own by first cloning our [main project repository](https://github.com/Fall25BuildingGameEngines/finalproject-chungi/tree/main), then navigating to `PSET/Engine/source` and running `dub`. Additionally, you may need to install `sdl3_ttf` (installation varies by system, but running a command-line download works).
+
 ## Post Mortem
 
 The following few paragraphs are a discussion about what we are proud of, things we wish we could have done, and just overall our thoughts about the project!
