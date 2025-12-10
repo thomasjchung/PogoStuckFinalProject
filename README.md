@@ -19,7 +19,7 @@ Thomas and Farhan's Website to show off our game engine for variants of PogoStuc
 
 ## Architecture Diagram
 
-TODO
+![Architecture Diagram](images/architecture.png)
 
 ## Compiled Binary
 
