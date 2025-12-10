@@ -1,7 +1,17 @@
 # Team Chungi's Final Project!
 Thomas and Farhan's Website to show off our game engine for variants of PogoStuck!
 
+## Video
+
 [Video Link for Final Deliverable]() (TODO)
+
+## Screenshots
+
+![Menu](images/ss2pge.png)
+
+![Level Create](images/ss7pge.png)
+
+![Gameplay](images/ss3pge.png)
 
 ## Documentation
 
@@ -13,7 +23,7 @@ TODO
 
 ## Compiled Binary
 
-<a href="pogostuck-engine" download>Download Compiled Binary (Mac)</a>
+<a href="binary/pogostuck-engine" download>Download Compiled Binary (Mac)</a>
 
 ## Post Mortem
 
