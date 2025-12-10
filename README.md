@@ -13,7 +13,7 @@ TODO
 
 ## Compiled Binary
 
-<a href="pogostuck-engine" download>Download Compiled Binary</a>
+<a href="pogostuck-engine" download>Download Compiled Binary (Mac)</a>
 
 ## Post Mortem
 
