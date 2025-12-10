@@ -1,11 +1,11 @@
 # Team Chungi's Final Project!
 Thomas and Farhan's Website to show off our game engine for variants of PogoStuck!
 
-**Video Link for Final Deliverable:** TODO
+[Video Link for Final Deliverable]() (TODO)
 
 ## Documentation
 
-**Link to Doxygen Documentation:** [Link](https://f-baig.github.io/finalprojectchungi-doxygen/)
+[Doxygen Documentation](https://f-baig.github.io/finalprojectchungi-doxygen/)
 
 ## Architecture Diagram
 
@@ -13,7 +13,7 @@ TODO
 
 ## Compiled Binary
 
-TODO
+<a href="pogostuck-engine" download>Download Compiled Binary</a>
 
 ## Post Mortem
 
